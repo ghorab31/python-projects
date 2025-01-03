@@ -1,0 +1,234 @@
+Country,Code,Region
+Aruba,AMR,Americas
+Afghanistan,EMR,Eastern Mediterranean
+Angola,AFR,Africa
+Anguilla,AMR,Americas
+Albania,EUR,Europe
+Andorra,EUR,Europe
+United Arab Emirates,EMR,Eastern Mediterranean
+Argentina,AMR,Americas
+Armenia,EUR,Europe
+American Samoa,WPR,Western Pacific
+Antigua and Barbuda,AMR,Americas
+Australia,WPR,Western Pacific
+Austria,EUR,Europe
+Azerbaijan,EUR,Europe
+Burundi,AFR,Africa
+Belgium,EUR,Europe
+Benin,AFR,Africa
+"Bonaire, Saint Eustatius and Saba",AMR,Americas
+Burkina Faso,AFR,Africa
+Bangladesh,SEAR,South-East Asia
+Bulgaria,EUR,Europe
+Bahrain,EMR,Eastern Mediterranean
+Bahamas,AMR,Americas
+Bosnia and Herzegovina,EUR,Europe
+Belarus,EUR,Europe
+Belize,AMR,Americas
+Bermuda,AMR,Americas
+Bolivia (Plurinational State of),AMR,Americas
+Brazil,AMR,Americas
+Barbados,AMR,Americas
+Brunei Darussalam,WPR,Western Pacific
+Bhutan,SEAR,South-East Asia
+Botswana,AFR,Africa
+Central African Republic,AFR,Africa
+Canada,AMR,Americas
+Switzerland,EUR,Europe
+Channel islands,None,None
+Chile,AMR,Americas
+China,WPR,Western Pacific
+Cote d'Ivoire,AFR,Africa
+Cameroon,AFR,Africa
+Democratic Republic of the Congo,AFR,Africa
+Congo,AFR,Africa
+Cook Islands,WPR,Western Pacific
+Colombia,AMR,Americas
+Comoros,AFR,Africa
+Cabo Verde,AFR,Africa
+Costa Rica,AMR,Americas
+Cuba,AMR,Americas
+Curaçao,AMR,Americas
+Cayman Islands,AMR,Americas
+Cyprus,EUR,Europe
+Czechia,EUR,Europe
+Germany,EUR,Europe
+Djibouti,EMR,Eastern Mediterranean
+Dominica,AMR,Americas
+Denmark,EUR,Europe
+Dominican Republic,AMR,Americas
+Algeria,AFR,Africa
+Ecuador,AMR,Americas
+Egypt,EMR,Eastern Mediterranean
+Eritrea,AFR,Africa
+Spain,EUR,Europe
+Estonia,EUR,Europe
+Ethiopia,AFR,Africa
+Finland,EUR,Europe
+Fiji,WPR,Western Pacific
+Falkland Islands (Malvinas),AMR,Americas
+France,EUR,Europe
+Faroe Islands,EUR,Europe
+Micronesia (Federated States of),WPR,Western Pacific
+Gabon,AFR,Africa
+United Kingdom of Great Britain and Northern Ireland,EUR,Europe
+Georgia,EUR,Europe
+Ghana,AFR,Africa
+Gibraltar,EUR,Europe
+Guinea,AFR,Africa
+Guadeloupe,AMR,Americas
+Gambia,AFR,Africa
+Guinea-Bissau,AFR,Africa
+Equatorial Guinea,AFR,Africa
+Greece,EUR,Europe
+Grenada,AMR,Americas
+Greenland,EUR,Europe
+Guatemala,AMR,Americas
+French Guiana,AMR,Americas
+Guam,WPR,Western Pacific
+Guyana,AMR,Americas
+"China, Hong Kong Special Administrative Region",None,None
+Honduras,AMR,Americas
+Croatia,EUR,Europe
+Haiti,AMR,Americas
+Hungary,EUR,Europe
+Indonesia,SEAR,South-East Asia
+Isle of Man,EUR,Europe
+India,SEAR,South-East Asia
+Ireland,EUR,Europe
+Iran (Islamic Republic of),EMR,Eastern Mediterranean
+Iraq,EMR,Eastern Mediterranean
+Iceland,EUR,Europe
+Israel,EUR,Europe
+Italy,EUR,Europe
+Jamaica,AMR,Americas
+Jordan,EMR,Eastern Mediterranean
+Japan,WPR,Western Pacific
+Kazakhstan,EUR,Europe
+Kenya,AFR,Africa
+Kyrgyzstan,EUR,Europe
+Cambodia,WPR,Western Pacific
+Kiribati,WPR,Western Pacific
+Saint Kitts and Nevis,AMR,Americas
+Republic of Korea,WPR,Western Pacific
+Kuwait,EMR,Eastern Mediterranean
+Lao People's Democratic Republic,WPR,Western Pacific
+Lebanon,EMR,Eastern Mediterranean
+Liberia,AFR,Africa
+Libya,EMR,Eastern Mediterranean
+Saint Lucia,AMR,Americas
+Liechtenstein,EUR,Europe
+Sri Lanka,SEAR,South-East Asia
+Lesotho,AFR,Africa
+Lithuania,EUR,Europe
+Luxembourg,EUR,Europe
+Latvia,EUR,Europe
+"China, Macao Special Administrative Region",None,None
+Morocco,EMR,Eastern Mediterranean
+Monaco,EUR,Europe
+Republic of Moldova,EUR,Europe
+Madagascar,AFR,Africa
+Maldives,SEAR,South-East Asia
+The former state union Serbia and Montenegro,None,None
+Mexico,AMR,Americas
+Marshall Islands,WPR,Western Pacific
+North Macedonia,EUR,Europe
+Mali,AFR,Africa
+Malta,EUR,Europe
+Myanmar,SEAR,South-East Asia
+Montenegro,EUR,Europe
+Mongolia,WPR,Western Pacific
+Northern Mariana Islands,WPR,Western Pacific
+Mozambique,AFR,Africa
+Mauritania,AFR,Africa
+Montserrat,AMR,Americas
+Martinique,AMR,Americas
+Mauritius,AFR,Africa
+Malawi,AFR,Africa
+Malaysia,WPR,Western Pacific
+Mayotte,AFR,Africa
+Namibia,AFR,Africa
+New Caledonia,WPR,Western Pacific
+Niger,AFR,Africa
+Nigeria,AFR,Africa
+Nicaragua,AMR,Americas
+Niue,WPR,Western Pacific
+Netherlands (Kingdom of the),EUR,Europe
+Norway,EUR,Europe
+Nepal,SEAR,South-East Asia
+Nauru,WPR,Western Pacific
+New Zealand,WPR,Western Pacific
+Oman,EMR,Eastern Mediterranean
+Pakistan,EMR,Eastern Mediterranean
+Panama,AMR,Americas
+Peru,AMR,Americas
+Philippines,WPR,Western Pacific
+Palau,WPR,Western Pacific
+Papua New Guinea,WPR,Western Pacific
+Poland,EUR,Europe
+Puerto Rico,AMR,Americas
+Democratic People's Republic of Korea,SEAR,South-East Asia
+Portugal,EUR,Europe
+Paraguay,AMR,Americas
+"occupied Palestinian territory, including east Jerusalem",EMR,Eastern Mediterranean
+French Polynesia,WPR,Western Pacific
+Qatar,EMR,Eastern Mediterranean
+Reunion,AFR,Africa
+Romania,EUR,Europe
+Russian Federation,EUR,Europe
+Rwanda,AFR,Africa
+Saudi Arabia,EMR,Eastern Mediterranean
+Sudan,EMR,Eastern Mediterranean
+Sudan (former),EMR,Eastern Mediterranean
+Senegal,AFR,Africa
+Singapore,WPR,Western Pacific
+Saint Helena,AFR,Africa
+Solomon Islands,WPR,Western Pacific
+Sierra Leone,AFR,Africa
+El Salvador,AMR,Americas
+San Marino,EUR,Europe
+Somalia,EMR,Eastern Mediterranean
+Saint Pierre and Miquelon,AMR,Americas
+Serbia,EUR,Europe
+South Sudan,AFR,Africa
+Sao Tome and Principe,AFR,Africa
+Suriname,AMR,Americas
+Slovakia,EUR,Europe
+Slovenia,EUR,Europe
+Sweden,EUR,Europe
+Eswatini,AFR,Africa
+Sint Maarten (Dutch part),AMR,Americas
+Seychelles,AFR,Africa
+Syrian Arab Republic,EMR,Eastern Mediterranean
+Turks and Caicos Islands,AMR,Americas
+Chad,AFR,Africa
+Togo,AFR,Africa
+Thailand,SEAR,South-East Asia
+Tajikistan,EUR,Europe
+Tokelau,WPR,Western Pacific
+Turkmenistan,EUR,Europe
+Timor-Leste,SEAR,South-East Asia
+Tonga,WPR,Western Pacific
+Trinidad and Tobago,AMR,Americas
+Tunisia,EMR,Eastern Mediterranean
+Türkiye,EUR,Europe
+Tuvalu,WPR,Western Pacific
+United Republic of Tanzania,AFR,Africa
+Uganda,AFR,Africa
+Ukraine,EUR,Europe
+Uruguay,AMR,Americas
+United States of America,AMR,Americas
+Uzbekistan,EUR,Europe
+Saint Vincent and the Grenadines,AMR,Americas
+Venezuela (Bolivarian Republic of),AMR,Americas
+British Virgin Islands,AMR,Americas
+Virgin Islands (USA),AMR,Americas
+Viet Nam,WPR,Western Pacific
+Vanuatu,WPR,Western Pacific
+Wallis and Futuna Islands,WPR,Western Pacific
+Samoa,WPR,Western Pacific
+Kosovo (in accordance with UN Security Council resolution 1244 (1999)),None,None
+Yemen,EMR,Eastern Mediterranean
+South Africa,AFR,Africa
+Zambia,AFR,Africa
+Zimbabwe,AFR,Africa
